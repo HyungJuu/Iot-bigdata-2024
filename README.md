@@ -1,7 +1,7 @@
 # Iot-bigdata-2024
 2024년 IoT개발자과정 빅데이터분석 및 AI 학습 리포지토리
 
-## 1일차(24.08.01)
+## 1일차
 
 ### 빅데이터 분석 및 AI
 - 빅데이터를 사용하여 사회전반적인 문제, 현상, 원인, 해결점 등을 찾아가는 분석방법
@@ -44,7 +44,7 @@
     - [판다스](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
     - [맷플롭립](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
 
-## 2일차(24.08.02)
+## 2일차
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - 셀레니움 + 뷰티플수프 같이 진행    
@@ -55,7 +55,7 @@
     - 스타벅스 입지 분석
     - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
 
-## 3일차(24.08.05)
+## 3일차
 - 개인 토이프로젝트
     - 깃헙 리포지토리, 빅데이터, 머신러닝, 딥러닝 레퍼런스를 참조 -> 클로닝형태
     - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
@@ -91,32 +91,45 @@
     - 이전에도 예측, 예상을 기존의 EDA 방식으로 사용했음
     - 머신러닝, 딥러닝이 예측값의 정확도가 훨씬 높기 때문에 사용
 
-## 4일차(24.08.06)
+## 4일차
 - 머신러닝, 딥러닝
     - 인공지능 개념 학습
     - 파이토치 기본설명과 CPU/GPU 라이브러리 설치
     - [개념](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba08_ml_dl_concept.ipynb)
     - [파이토치개요및설치](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day4/dba09_pytorch_start.ipynb)
 
-## 5일차(24.08.07)
+## 5일차
 - 머신러닝, 딥러닝
     - ML(Machine Learning) -> DL(Deep Learning) -> NLP(Natural Language Processing) ...
     - [파이토치기본](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba10_pytorch_basic.ipynb)
     - 타이타닉 생존자 예측
     - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
-## 5일차(24.08.08)
+## 6일차
 - 머신러닝, 딥러닝
     - 타이타닉 생존자 예측(계속)
-
-
-## 6일차
+    - 사이킷런(로지스틱), 파이토치 생존자 예측 비교
+    - [ML회귀분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day5/dba11_linear_regression.ipynb)
 
 ## 7일차
+- 머신러닝, 딥러닝
+    - CNN(Convolutional NN) 
+    - [이미지분류](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day7/dba12_image_class.ipynb)
+
 
 ## 8일차
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, YOLOv8
+    - [YOLOv8](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day8/dba13_object_detection.ipynb)
 
+    <img src="https://raw.githubusercontent.com/hugoMGSung/Iot-bigdata-2024/main/images/bda005.png" width="700">
+
+    https://github.com/user-attachments/assets/c424ecfa-a51e-4aae-99d8-d60b421b9f51
+        
 ## 9일차
+- 머신러닝, 딥러닝 개인클로닝
+    - 예제 리포지토리 참조, Cloning
 
 ## Furthur
 1. 기초
